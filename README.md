@@ -85,7 +85,7 @@ After finishing all the customization, you can create a production build by runn
 npm run build
 ```
 
-Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
+Now you get a `build` folder that has all the changes you have made. you can use this folder as your main theme.
 
 👉🏻 [visit documentation](https://docs.themefisher.com/airspace/)
 

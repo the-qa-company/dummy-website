@@ -33,4 +33,4 @@ jobs:
         author_name: GitHub Actions
         author_email: info@the-qa-company.com
         message: 'Deploy to gh-pages'
-        add: 'theme'
+        add: 'build'
